@@ -1,2 +1,3 @@
 # bookbot
-This is a repo used to participate in Boot.dev git courses.
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
