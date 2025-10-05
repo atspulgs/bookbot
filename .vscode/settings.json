@@ -1,0 +1,14 @@
+{
+    "editor.formatOnSave": true,
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": false,
+    "editor.renderWhitespace": "all",
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.autopep8",
+        "editor.tabSize": 4,
+    },
+    "[markdown]": {
+        "editor.wordWrap": "on",
+        "editor.acceptSuggestionOnEnter": "off",
+    }
+}
